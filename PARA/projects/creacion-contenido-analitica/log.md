@@ -1,0 +1,1 @@
+# [Nombre] — Bitácora de sesiones

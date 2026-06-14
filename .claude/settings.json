@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(*)",
+      "Read",
+      "Edit",
+      "Write",
+      "Grep",
+      "Glob",
+      "mcp__gmail__*",
+      "mcp__calendar__*",
+      "mcp__drive__*"
+    ],
+    "deny": ["Bash(rm *)", "Bash(git push *)"]
+  }
+}

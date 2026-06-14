@@ -1,0 +1,25 @@
+{
+  "mcpServers": {
+    "gmail": {
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-gmail"],
+      "env": {
+        "GMAIL_CREDENTIALS_PATH": "~/.config/peter-brain/gmail-credentials.json"
+      }
+    },
+    "calendar": {
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-google-calendar"],
+      "env": {
+        "GOOGLE_CALENDAR_CREDENTIALS_PATH": "~/.config/peter-brain/calendar-credentials.json"
+      }
+    },
+    "drive": {
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-google-drive"],
+      "env": {
+        "GOOGLE_DRIVE_CREDENTIALS_PATH": "~/.config/peter-brain/drive-credentials.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Claude Code local settings (no versionar config personal)
+.claude/settings.local.json
+.claude/worktrees/
+
+# Google Drive sync artefacts
+.tmp.driveupload/
+.tmp.drivedownload/
+
+# Obsidian local config (cada usuario tiene el suyo)
+.obsidian/workspace*
+.obsidian/cache
+.obsidian/graph.json
+
+# Scratch
+scratch/
+
+# Logs / temp
+*.log
+*.tmp
