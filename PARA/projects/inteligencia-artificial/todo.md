@@ -1,4 +1,4 @@
-# [Nombre] — Tareas
+# Inteligencia Artificial (Maestría) — Tareas
 
 ## 🔴 Alta prioridad
 

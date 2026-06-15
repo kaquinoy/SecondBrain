@@ -1,1 +1,1 @@
-# [Nombre] — Bitácora de sesiones
+# Maestría en IA — Bitácora de sesiones

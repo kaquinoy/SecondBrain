@@ -1,1 +1,1 @@
-# [Nombre] — Bitácora de sesiones
+# Inteligencia Artificial (Maestría) — Bitácora de sesiones

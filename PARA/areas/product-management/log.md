@@ -1,1 +1,1 @@
-# [Nombre] — Bitácora de sesiones
+# Product Management — Bitácora de sesiones

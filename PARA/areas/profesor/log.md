@@ -1,1 +1,1 @@
-# [Nombre] — Bitácora de sesiones
+# Profesor Universitario — Bitácora de sesiones

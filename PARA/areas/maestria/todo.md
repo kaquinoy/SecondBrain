@@ -1,4 +1,4 @@
-# [Nombre] — Tareas
+# Maestría en IA — Tareas
 
 ## 🔴 Alta prioridad
 

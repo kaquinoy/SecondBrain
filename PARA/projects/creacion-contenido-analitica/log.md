@@ -1,1 +1,1 @@
-# [Nombre] — Bitácora de sesiones
+# Creación de Contenido para Analítica de Datos — Bitácora de sesiones

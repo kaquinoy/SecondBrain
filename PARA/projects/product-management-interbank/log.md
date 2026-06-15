@@ -1,1 +1,1 @@
-# [Nombre] — Bitácora de sesiones
+# Product Management Interbank — Bitácora de sesiones
