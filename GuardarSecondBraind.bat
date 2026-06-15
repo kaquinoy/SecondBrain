@@ -46,10 +46,7 @@ rem Crear commit
 echo Creando commit...
 git commit -m "%MSG%"
 if errorlevel 1 (
-  color 0F
-  echo INFO: No había cambios para commitear (repositorio al día).
-  pause
-  exit /b 0
+  echo INFO: No había cambios nuevos. Verificando si hay commits pendientes...
 )
 
 rem Hacer push a main
